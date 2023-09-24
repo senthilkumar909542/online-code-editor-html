@@ -1,6 +1,5 @@
 # Online Code Editor
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Online Code Editor** is a simple web-based code editor that allows you to write and execute HTML, CSS, and JavaScript code right in your browser. It's a perfect tool for quick code experimentation and learning.
 

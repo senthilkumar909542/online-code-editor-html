@@ -3,7 +3,27 @@
 
 **Online Code Editor** is a simple web-based code editor that allows you to write and execute HTML, CSS, and JavaScript code right in your browser. It's a perfect tool for quick code experimentation and learning.
 
-![Demo](demo.gif)
+
+## Demo Image:1
+
+
+<img>
+
+![image](https://github.com/senthilkumar909542/online-code-editor-html/assets/56290175/9e5d7f0a-4e1c-4c37-b86e-3b5913228d60)
+
+
+</img>
+
+## Demo Image:2
+
+
+<img>
+
+![image](https://github.com/senthilkumar909542/online-code-editor-html/assets/56290175/3c785e48-7832-4b4b-9bc4-d961e479f168)
+
+</img>
+
+
 
 ## Features
 
